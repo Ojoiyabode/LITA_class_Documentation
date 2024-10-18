@@ -30,4 +30,7 @@ This is where I documented my project while learning with the Incubator hub. (La
   ```SQL
   SELECT* FROM TABLE1
   WHERE CONDITION = TRUE
+
+## Data Visualization
+|
   
